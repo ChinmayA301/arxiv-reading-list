@@ -2,13 +2,12 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-10-26)
+## Latest Papers (2025-10-27)
 
-1. [Towards General Modality Translation with Contrastive and Predictive
-  Latent Diffusion Bridge](http://arxiv.org/abs/2510.20819v1) - 2025-10-23
-2. [VAMOS: A Hierarchical Vision-Language-Action Model for
-  Capability-Modulated and Steerable Navigation](http://arxiv.org/abs/2510.20818v1) - 2025-10-23
-3. [KL-Regularized Reinforcement Learning is Designed to Mode Collapse](http://arxiv.org/abs/2510.20817v1) - 2025-10-23
+1. [Connecting Chemical Enrichment with Resolved Star Formation Histories](http://arxiv.org/abs/2510.21707v1) - 2025-10-24
+2. [Equivariance by Contrast: Identifiable Equivariant Embeddings from
+  Unlabeled Finite Group Actions](http://arxiv.org/abs/2510.21706v1) - 2025-10-24
+3. [Visual Diffusion Models are Geometric Solvers](http://arxiv.org/abs/2510.21697v1) - 2025-10-24
 
 
 ## Organization
