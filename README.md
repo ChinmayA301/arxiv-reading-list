@@ -2,12 +2,10 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-10-27)
+## Latest Papers (2025-10-28)
 
-1. [Connecting Chemical Enrichment with Resolved Star Formation Histories](http://arxiv.org/abs/2510.21707v1) - 2025-10-24
-2. [Equivariance by Contrast: Identifiable Equivariant Embeddings from
-  Unlabeled Finite Group Actions](http://arxiv.org/abs/2510.21706v1) - 2025-10-24
-3. [Visual Diffusion Models are Geometric Solvers](http://arxiv.org/abs/2510.21697v1) - 2025-10-24
+1. [Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
+  Representations](http://arxiv.org/abs/2510.23607v1) - 2025-10-27
 
 
 ## Organization
