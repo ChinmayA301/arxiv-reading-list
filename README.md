@@ -2,10 +2,12 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-10-28)
+## Latest Papers (2025-10-29)
 
-1. [Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
-  Representations](http://arxiv.org/abs/2510.23607v1) - 2025-10-27
+1. [Generative View Stitching](http://arxiv.org/abs/2510.24718v1) - 2025-10-28
+2. [Machine-Learning-Assisted Comparison of Regression Functions](http://arxiv.org/abs/2510.24714v1) - 2025-10-28
+3. [A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel
+  Optimization](http://arxiv.org/abs/2510.24710v1) - 2025-10-28
 
 
 ## Organization
