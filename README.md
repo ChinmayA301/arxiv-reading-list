@@ -2,13 +2,12 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-10-30)
+## Latest Papers (2025-10-31)
 
-1. [VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context
-  Learning](http://arxiv.org/abs/2510.25772v1) - 2025-10-29
-2. [E-Scores for (In)Correctness Assessment of Generative Model Outputs](http://arxiv.org/abs/2510.25770v1) - 2025-10-29
-3. [Neural Stochastic Flows: Solver-Free Modelling and Inference for SDE
-  Solutions](http://arxiv.org/abs/2510.25769v1) - 2025-10-29
+1. [OmniX: From Unified Panoramic Generation and Perception to
+  Graphics-Ready 3D Scenes](http://arxiv.org/abs/2510.26800v1) - 2025-10-30
+2. [Masked Diffusion Captioning for Visual Feature Learning](http://arxiv.org/abs/2510.26799v1) - 2025-10-30
+3. [SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting](http://arxiv.org/abs/2510.26796v1) - 2025-10-30
 
 
 ## Organization
