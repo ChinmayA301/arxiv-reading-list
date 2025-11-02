@@ -2,7 +2,7 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-11-01)
+## Latest Papers (2025-11-02)
 
 1. [OmniX: From Unified Panoramic Generation and Perception to
   Graphics-Ready 3D Scenes](http://arxiv.org/abs/2510.26800v1) - 2025-10-30
