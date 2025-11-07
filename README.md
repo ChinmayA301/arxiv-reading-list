@@ -2,12 +2,15 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-11-02)
+## Latest Papers (2025-11-07)
 
-1. [OmniX: From Unified Panoramic Generation and Perception to
-  Graphics-Ready 3D Scenes](http://arxiv.org/abs/2510.26800v1) - 2025-10-30
-2. [Masked Diffusion Captioning for Visual Feature Learning](http://arxiv.org/abs/2510.26799v1) - 2025-10-30
-3. [SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting](http://arxiv.org/abs/2510.26796v1) - 2025-10-30
+1. [Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference
+  from weak lensing and galaxy clustering maps with deep learning. I. Analysis
+  design](http://arxiv.org/abs/2511.04681v1) - 2025-11-06
+2. [GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human
+  and Object Interaction](http://arxiv.org/abs/2511.04679v1) - 2025-11-06
+3. [X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human
+  Demonstrations](http://arxiv.org/abs/2511.04671v1) - 2025-11-06
 
 
 ## Organization
