@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-11-14)
+## Latest Papers (2025-11-21)
 
-1. [Changing Data Sources in the Age of Machine Learning for Official Statistics](https://arxiv.org/pdf/2306.04338v1) - 2023-06-07
-2. [DOME: Recommendations for supervised machine learning validation in biology](https://arxiv.org/pdf/2006.16189v4) - 2020-06-25
-3. [Active learning for data streams: a survey](https://arxiv.org/pdf/2302.08893v4) - 2023-02-17
+1. [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674v1) - 2025-11-20
+2. [EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/abs/2511.16672v1) - 2025-11-20
+3. [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671v1) - 2025-11-20
 
 
 ## Organization
