@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-11-21)
+## Latest Papers (2025-11-28)
 
-1. [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674v1) - 2025-11-20
-2. [EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/abs/2511.16672v1) - 2025-11-20
-3. [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671v1) - 2025-11-20
+1. [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://arxiv.org/abs/2511.21691v1) - 2025-11-26
+2. [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/abs/2511.21690v1) - 2025-11-26
+3. [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1) - 2025-11-26
 
 
 ## Organization
