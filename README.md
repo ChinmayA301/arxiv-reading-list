@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-11-28)
+## Latest Papers (2025-12-05)
 
-1. [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://arxiv.org/abs/2511.21691v1) - 2025-11-26
-2. [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/abs/2511.21690v1) - 2025-11-26
-3. [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1) - 2025-11-26
+1. [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1) - 2025-12-04
+2. [Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1) - 2025-12-04
+3. [Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/abs/2512.05114v1) - 2025-12-04
 
 
 ## Organization
