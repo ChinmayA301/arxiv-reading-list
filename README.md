@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-12-05)
+## Latest Papers (2025-12-12)
 
-1. [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1) - 2025-12-04
-2. [Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1) - 2025-12-04
-3. [Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/abs/2512.05114v1) - 2025-12-04
+1. [Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](https://arxiv.org/abs/2512.10955v1) - 2025-12-11
+2. [Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/abs/2512.10953v1) - 2025-12-11
+3. [Hierarchical Dataset Selection for High-Quality Data Sharing](https://arxiv.org/abs/2512.10952v1) - 2025-12-11
 
 
 ## Organization
