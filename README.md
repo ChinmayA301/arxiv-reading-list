@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-12-12)
+## Latest Papers (2025-12-19)
 
-1. [Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](https://arxiv.org/abs/2512.10955v1) - 2025-12-11
-2. [Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/abs/2512.10953v1) - 2025-12-11
-3. [Hierarchical Dataset Selection for High-Quality Data Sharing](https://arxiv.org/abs/2512.10952v1) - 2025-12-11
+1. [Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922v1) - 2025-12-18
+2. [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1) - 2025-12-18
+3. [AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1) - 2025-12-18
 
 
 ## Organization
