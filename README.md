@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2025-12-19)
+## Latest Papers (2025-12-26)
 
-1. [Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922v1) - 2025-12-18
-2. [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1) - 2025-12-18
-3. [AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1) - 2025-12-18
+1. [Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](https://arxiv.org/abs/2512.21336v1) - 2025-12-24
+2. [Autonomous Uncertainty Quantification for Computational Point-of-care Sensors](https://arxiv.org/abs/2512.21335v1) - 2025-12-24
+3. [TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v1) - 2025-12-24
 
 
 ## Organization
