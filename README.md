@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-01-02)
+## Latest Papers (2026-01-09)
 
-1. [SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1) - 2025-12-31
-2. [Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1) - 2025-12-31
-3. [Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1) - 2025-12-31
+1. [Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/abs/2601.05251v1) - 2026-01-08
+2. [RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://arxiv.org/abs/2601.05249v1) - 2026-01-08
+3. [QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer](https://arxiv.org/abs/2601.05250v1) - 2026-01-08
 
 
 ## Organization
