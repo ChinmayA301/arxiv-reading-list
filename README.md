@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-01-16)
+## Latest Papers (2026-01-23)
 
-1. [DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1) - 2026-01-15
-2. [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1) - 2026-01-15
-3. [From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://arxiv.org/abs/2601.10710v1) - 2026-01-15
+1. [CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/abs/2601.16214v1) - 2026-01-22
+2. [Point Bridge: 3D Representations for Cross Domain Policy Learning](https://arxiv.org/abs/2601.16212v1) - 2026-01-22
+3. [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://arxiv.org/abs/2601.16211v1) - 2026-01-22
 
 
 ## Organization
