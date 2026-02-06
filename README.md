@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-01-30)
+## Latest Papers (2026-02-06)
 
-1. [Discovering Hidden Gems in Model Repositories](https://arxiv.org/abs/2601.22157v1) - 2026-01-29
-2. [Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts](https://arxiv.org/abs/2601.22156v1) - 2026-01-29
-3. [Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154v1) - 2026-01-29
+1. [Shared LoRA Subspaces for almost Strict Continual Learning](https://arxiv.org/abs/2602.06043v1) - 2026-02-05
+2. [Pseudo-Invertible Neural Networks](https://arxiv.org/abs/2602.06042v1) - 2026-02-05
+3. [CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://arxiv.org/abs/2602.06038v1) - 2026-02-05
 
 
 ## Organization
