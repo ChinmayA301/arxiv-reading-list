@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-02-06)
+## Latest Papers (2026-02-13)
 
-1. [Shared LoRA Subspaces for almost Strict Continual Learning](https://arxiv.org/abs/2602.06043v1) - 2026-02-05
-2. [Pseudo-Invertible Neural Networks](https://arxiv.org/abs/2602.06042v1) - 2026-02-05
-3. [CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://arxiv.org/abs/2602.06038v1) - 2026-02-05
+1. [Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1) - 2026-02-12
+2. [UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1) - 2026-02-12
+3. [Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage](https://arxiv.org/abs/2602.12274v1) - 2026-02-12
 
 
 ## Organization
