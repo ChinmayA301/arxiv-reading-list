@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-02-20)
+## Latest Papers (2026-02-27)
 
-1. [OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents](https://arxiv.org/abs/2602.17665v1) - 2026-02-19
-2. [Sink-Aware Pruning for Diffusion Language Models](https://arxiv.org/abs/2602.17664v1) - 2026-02-19
-3. [When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/abs/2602.17659v1) - 2026-02-19
+1. [MediX-R1: Open Ended Medical Reinforcement Learning](https://arxiv.org/abs/2602.23363v1) - 2026-02-26
+2. [Model Agreement via Anchoring](https://arxiv.org/abs/2602.23360v1) - 2026-02-26
+3. [A Dataset is Worth 1 MB](https://arxiv.org/abs/2602.23358v1) - 2026-02-26
 
 
 ## Organization
