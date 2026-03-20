@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-03-13)
+## Latest Papers (2026-03-20)
 
-1. [MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning](https://arxiv.org/abs/2603.12266v1) - 2026-03-12
-2. [OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/abs/2603.12265v1) - 2026-03-12
-3. [$Ψ_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation](https://arxiv.org/abs/2603.12263v1) - 2026-03-12
+1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1) - 2026-03-19
+2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1) - 2026-03-19
+3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1) - 2026-03-19
 
 
 ## Organization
