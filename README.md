@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-03-20)
+## Latest Papers (2026-03-27)
 
-1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1) - 2026-03-19
-2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1) - 2026-03-19
-3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1) - 2026-03-19
+1. [Vega: Learning to Drive with Natural Language Instructions](https://arxiv.org/abs/2603.25741v1) - 2026-03-26
+2. [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](https://arxiv.org/abs/2603.25740v1) - 2026-03-26
+3. [PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow](https://arxiv.org/abs/2603.25738v1) - 2026-03-26
 
 
 ## Organization
