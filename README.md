@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-04-24)
+## Latest Papers (2026-05-01)
 
-1. [Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1) - 2026-04-23
-2. [Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](https://arxiv.org/abs/2604.21930v1) - 2026-04-23
-3. [Fine-Tuning Regimes Define Distinct Continual Learning Problems](https://arxiv.org/abs/2604.21927v1) - 2026-04-23
+1. [Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](https://arxiv.org/abs/2604.28193v1) - 2026-04-30
+2. [LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models](https://arxiv.org/abs/2604.28192v1) - 2026-04-30
+3. [Computing Equilibrium beyond Unilateral Deviation](https://arxiv.org/abs/2604.28186v1) - 2026-04-30
 
 
 ## Organization
