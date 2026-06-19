@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-06-12)
+## Latest Papers (2026-06-19)
 
-1. [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://arxiv.org/abs/2606.13680v1) - 2026-06-11
-2. [Mana: Dexterous Manipulation of Articulated Tools](https://arxiv.org/abs/2606.13677v1) - 2026-06-11
-3. [Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675v1) - 2026-06-11
+1. [How Transparent is DiffusionGemma?](https://arxiv.org/abs/2606.20560v1) - 2026-06-18
+2. [UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1) - 2026-06-18
+3. [Optimal Deterministic Multicalibration and Omniprediction](https://arxiv.org/abs/2606.20557v1) - 2026-06-18
 
 
 ## Organization
