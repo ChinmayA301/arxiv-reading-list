@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-06-19)
+## Latest Papers (2026-06-26)
 
-1. [How Transparent is DiffusionGemma?](https://arxiv.org/abs/2606.20560v1) - 2026-06-18
-2. [UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1) - 2026-06-18
-3. [Optimal Deterministic Multicalibration and Omniprediction](https://arxiv.org/abs/2606.20557v1) - 2026-06-18
+1. [DanceOPD: On-Policy Generative Field Distillation](https://arxiv.org/abs/2606.27377v1) - 2026-06-25
+2. [Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards](https://arxiv.org/abs/2606.27376v1) - 2026-06-25
+3. [Scalable Behavior Cloning with Open Data, Training, and Evaluation](https://arxiv.org/abs/2606.27375v1) - 2026-06-25
 
 
 ## Organization
