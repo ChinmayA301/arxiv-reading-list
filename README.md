@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-06-26)
+## Latest Papers (2026-07-03)
 
-1. [DanceOPD: On-Policy Generative Field Distillation](https://arxiv.org/abs/2606.27377v1) - 2026-06-25
-2. [Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards](https://arxiv.org/abs/2606.27376v1) - 2026-06-25
-3. [Scalable Behavior Cloning with Open Data, Training, and Evaluation](https://arxiv.org/abs/2606.27375v1) - 2026-06-25
+1. [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1) - 2026-07-02
+2. [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512v1) - 2026-07-02
+3. [Online Safety Monitoring for LLMs](https://arxiv.org/abs/2607.02510v1) - 2026-07-02
 
 
 ## Organization
