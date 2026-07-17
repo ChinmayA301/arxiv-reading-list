@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-07-10)
+## Latest Papers (2026-07-17)
 
-1. [Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1) - 2026-07-09
-2. [Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1) - 2026-07-09
-3. [OpenCoF: Learning to Reason Through Video Generation](https://arxiv.org/abs/2607.08763v1) - 2026-07-09
+1. [Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](https://arxiv.org/abs/2607.15277v1) - 2026-07-16
+2. [Locality of deep thermalisation through the lens of entanglement teleportation](https://arxiv.org/abs/2607.15276v1) - 2026-07-16
+3. [RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275v1) - 2026-07-16
 
 
 ## Organization
