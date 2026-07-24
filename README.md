@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-07-17)
+## Latest Papers (2026-07-24)
 
-1. [Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](https://arxiv.org/abs/2607.15277v1) - 2026-07-16
-2. [Locality of deep thermalisation through the lens of entanglement teleportation](https://arxiv.org/abs/2607.15276v1) - 2026-07-16
-3. [RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275v1) - 2026-07-16
+1. [3D-Aware VLMs with Implicit and Explicit Geometries](https://arxiv.org/abs/2607.21595v1) - 2026-07-23
+2. [Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/abs/2607.21592v1) - 2026-07-23
+3. [AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1) - 2026-07-23
 
 
 ## Organization
