@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-07-31)
+## Latest Papers (2026-08-07)
 
-1. [Learning to Trace Seiberg Dualities](https://arxiv.org/abs/2607.28628v1) - 2026-07-30
-2. [ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/abs/2607.28627v1) - 2026-07-30
-3. [ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/abs/2607.28625v1) - 2026-07-30
+1. [Learning When to Trust via Selective Context Preference Optimization](https://arxiv.org/abs/2608.06377v1) - 2026-08-06
+2. [$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation](https://arxiv.org/abs/2608.06375v1) - 2026-08-06
+3. [DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation](https://arxiv.org/abs/2608.06374v1) - 2026-08-06
 
 
 ## Organization
