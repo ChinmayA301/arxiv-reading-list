@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-08-07)
+## Latest Papers (2026-08-14)
 
-1. [Learning When to Trust via Selective Context Preference Optimization](https://arxiv.org/abs/2608.06377v1) - 2026-08-06
-2. [$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation](https://arxiv.org/abs/2608.06375v1) - 2026-08-06
-3. [DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation](https://arxiv.org/abs/2608.06374v1) - 2026-08-06
+1. [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1) - 2026-08-13
+2. [Defensive Boosting for Online Probabilistic Forecasting](https://arxiv.org/abs/2608.13554v1) - 2026-08-13
+3. [Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure](https://arxiv.org/abs/2608.13549v1) - 2026-08-13
 
 
 ## Organization
