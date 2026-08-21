@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-08-14)
+## Latest Papers (2026-08-21)
 
-1. [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1) - 2026-08-13
-2. [Defensive Boosting for Online Probabilistic Forecasting](https://arxiv.org/abs/2608.13554v1) - 2026-08-13
-3. [Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure](https://arxiv.org/abs/2608.13549v1) - 2026-08-13
+1. [Information on trajectories: martingales and random times](https://arxiv.org/abs/2608.20337v1) - 2026-08-20
+2. [Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1) - 2026-08-20
+3. [G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](https://arxiv.org/abs/2608.20331v1) - 2026-08-20
 
 
 ## Organization
