@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-08-21)
+## Latest Papers (2026-08-28)
 
-1. [Information on trajectories: martingales and random times](https://arxiv.org/abs/2608.20337v1) - 2026-08-20
-2. [Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1) - 2026-08-20
-3. [G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](https://arxiv.org/abs/2608.20331v1) - 2026-08-20
+1. [The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6](https://arxiv.org/abs/2608.27458v1) - 2026-08-27
+2. [Spectral Fingerprints of Gauge Theories on a Quantum Computer](https://arxiv.org/abs/2608.27457v1) - 2026-08-27
+3. [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](https://arxiv.org/abs/2608.27455v1) - 2026-08-27
 
 
 ## Organization
