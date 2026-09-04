@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-08-28)
+## Latest Papers (2026-09-04)
 
-1. [The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6](https://arxiv.org/abs/2608.27458v1) - 2026-08-27
-2. [Spectral Fingerprints of Gauge Theories on a Quantum Computer](https://arxiv.org/abs/2608.27457v1) - 2026-08-27
-3. [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](https://arxiv.org/abs/2608.27455v1) - 2026-08-27
+1. [Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision](https://arxiv.org/abs/2609.04203v1) - 2026-09-03
+2. [TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1) - 2026-09-03
+3. [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201v1) - 2026-09-03
 
 
 ## Organization
