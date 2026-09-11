@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-09-04)
+## Latest Papers (2026-09-11)
 
-1. [Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision](https://arxiv.org/abs/2609.04203v1) - 2026-09-03
-2. [TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1) - 2026-09-03
-3. [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201v1) - 2026-09-03
+1. [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://arxiv.org/abs/2609.11929v1) - 2026-09-10
+2. [General Quantification of Covariate and Concept Shifts](https://arxiv.org/abs/2609.11918v1) - 2026-09-10
+3. [Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](https://arxiv.org/abs/2609.11917v1) - 2026-09-10
 
 
 ## Organization
