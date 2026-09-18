@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-09-11)
+## Latest Papers (2026-09-18)
 
-1. [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://arxiv.org/abs/2609.11929v1) - 2026-09-10
-2. [General Quantification of Covariate and Concept Shifts](https://arxiv.org/abs/2609.11918v1) - 2026-09-10
-3. [Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](https://arxiv.org/abs/2609.11917v1) - 2026-09-10
+1. [Embedding Models Measure in Peculiar Ways](https://arxiv.org/abs/2609.20821v1) - 2026-09-17
+2. [Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision](https://arxiv.org/abs/2609.20820v1) - 2026-09-17
+3. [FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations](https://arxiv.org/abs/2609.20817v1) - 2026-09-17
 
 
 ## Organization
