@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-09-18)
+## Latest Papers (2026-09-25)
 
-1. [Embedding Models Measure in Peculiar Ways](https://arxiv.org/abs/2609.20821v1) - 2026-09-17
-2. [Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision](https://arxiv.org/abs/2609.20820v1) - 2026-09-17
-3. [FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations](https://arxiv.org/abs/2609.20817v1) - 2026-09-17
+1. [Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning](https://arxiv.org/abs/2609.30258v1) - 2026-09-24
+2. [Quantum Feature Selection for Biomedical Data Analysis](https://arxiv.org/abs/2609.30256v1) - 2026-09-24
+3. [Forte: A sensitivity type system for imperative Rust](https://arxiv.org/abs/2609.30254v1) - 2026-09-24
 
 
 ## Organization
