@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-10-09)
+## Latest Papers (2026-10-16)
 
-1. [Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration](https://arxiv.org/abs/2610.12470v1) - 2026-10-08
-2. [DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training](https://arxiv.org/abs/2610.12468v1) - 2026-10-08
-3. [CSF: Contextual Safety Filtering for Motion Generators](https://arxiv.org/abs/2610.12467v1) - 2026-10-08
+1. [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](https://arxiv.org/abs/2610.22372v1) - 2026-10-15
+2. [Value as Memory: Online Value-Guided Post-training for General Robot Policies](https://arxiv.org/abs/2610.22368v1) - 2026-10-15
+3. [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](https://arxiv.org/abs/2610.22364v1) - 2026-10-15
 
 
 ## Organization
