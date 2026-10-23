@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-10-16)
+## Latest Papers (2026-10-23)
 
-1. [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](https://arxiv.org/abs/2610.22372v1) - 2026-10-15
-2. [Value as Memory: Online Value-Guided Post-training for General Robot Policies](https://arxiv.org/abs/2610.22368v1) - 2026-10-15
-3. [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](https://arxiv.org/abs/2610.22364v1) - 2026-10-15
+1. [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/abs/2610.31670v1) - 2026-10-22
+2. [Reading, Writing, Sharing, and Interacting with the World through Video](https://arxiv.org/abs/2610.31668v1) - 2026-10-22
+3. [Phase Transition from Random Features to Fully Trainable Networks](https://arxiv.org/abs/2610.31663v1) - 2026-10-22
 
 
 ## Organization
