@@ -2,11 +2,11 @@
 
 Personal collection of ML/AI papers with implementation notes.
 
-## Latest Papers (2026-10-30)
+## Latest Papers (2026-11-06)
 
-1. [Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](https://arxiv.org/abs/2610.40654v1) - 2026-10-29
-2. [Rethinking Neural Thickets Without Weight Perturbations](https://arxiv.org/abs/2610.40649v1) - 2026-10-29
-3. [Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/abs/2610.40647v1) - 2026-10-29
+1. [User Embeddings are Superpositions of Interpretable Behavioral Modes](https://arxiv.org/abs/2611.08487v1) - 2026-11-05
+2. [Scientist World: Grow a Research World for AI-Scientists](https://arxiv.org/abs/2611.08478v1) - 2026-11-05
+3. [EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling](https://arxiv.org/abs/2611.08477v1) - 2026-11-05
 
 
 ## Organization
